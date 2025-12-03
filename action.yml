@@ -1,0 +1,6 @@
+name: pew-actions/setup-runner
+description: Setup tooling for a PEW build runner
+
+runs:
+  using: node24
+  main: dist/index.js
